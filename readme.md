@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Aiswarya Raju.<br>
   <br> I'm a Graphics,3D,UI/UX,Web Designer. <br>
   <br>
-   <iframe src="https://giphy.com/embed/SWoctMQwFFeE21ePvc" width="500" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/social-plfware-piluffo-SWoctMQwFFeE21ePvc">via GIPHY</a></p>"
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
 
