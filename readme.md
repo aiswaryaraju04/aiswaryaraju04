@@ -1,11 +1,11 @@
-<h3 align="left">
+<h2 align="left">
  <abc>
   <br>👋 Hi, I'm Aiswarya Raju.<br>
   <br> I'm a Graphics,3D,UI/UX,Web Designer. <br>
   <br>
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
-</h3> 
+</h2> 
 
    ####      ![](https://img.shields.io/badge/Web%20Design-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/C-%7C-yellow) ![](https://img.shields.io/badge/C++-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Blender-%7C-yellowgreen) ![](https://img.shields.io/badge/Figma-%7C-orange) ![](https://img.shields.io/badge/Photoshop-%7C-blue)
 
