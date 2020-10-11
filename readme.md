@@ -18,3 +18,5 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking!
 - :mailbox: Reach out to me at my social media handles: <br>
             [![Linkedin Badge](https://img.shields.io/badge/-aiswaryaraju-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aiswarya-raju/)](https://www.linkedin.com/in/aiswarya-raju/) [![Twitter Badge](https://img.shields.io/badge/-@aiswarya__raju-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AiswaryaRaju22)](https://twitter.com/AiswaryaRaju22) [![Instagram Badge](https://img.shields.io/badge/-@aiswarya__raju-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aeshw.a.r.y.a__raju/)](https://www.instagram.com/aeshw.a.r.y.a__raju/)
+            
+            ![Aiswaryas github stats](https://github-readme-stats.vercel.app/api?username=aiswaryaraju04&count_private=true&show_icons=true])
