@@ -15,7 +15,7 @@
 - :telescope: I'm currently exploring ML and AR
 - :hourglass_flowing_sand: Experimenting with C and learning Python
 - :microscope: Always ready to collaborate for Dev Experiments
-- :dart: 2020 Goals: Start contributing to Open Source:fire: 
+- :dart: 2021 Goals: Take a break, learn,learn,learn:fire: 
 - :woman_artist: Passionate in 3D Modeling!
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking!
 - :mailbox: Reach out to me at my social media handles: <br>
