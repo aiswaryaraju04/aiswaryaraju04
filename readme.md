@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Aiswarya Raju.<br>
    <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=aiswaryaraju04&color=blue&style=plastic&label=Profile+visits">
 </a>
-  <br> I'm a Graphics,3D,UI/UX,Web Designer. <br>
+  <br> I'm a Developer, Designer and Entrepreneur. <br>
   <br>
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
