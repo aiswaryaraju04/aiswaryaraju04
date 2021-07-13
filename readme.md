@@ -12,7 +12,7 @@
    ####      ![](https://img.shields.io/badge/Web%20Design-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/C-%7C-yellow) ![](https://img.shields.io/badge/C++-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Blender-%7C-yellowgreen) ![](https://img.shields.io/badge/Figma-%7C-orange) ![](https://img.shields.io/badge/Photoshop-%7C-blue)
 
 - :woman_technologist: Founder of Luova Foundation
-- :telescope: I'm currently exploring ML and AR
+- :telescope: Currently exploring ML
 - :hourglass_flowing_sand: Experimenting with C and learning Python
 - :microscope: Always ready to collaborate for Dev Experiments
 - :dart: 2021 Goals: Take a break, learn,learn,learn:fire: 
