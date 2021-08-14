@@ -13,7 +13,7 @@
 
 - :woman_technologist: DSC Lead - SJCET
 - :woman_technologist: Founder of Luova Foundation
-- :telescope: Currently exploring ML
+- :telescope: Currently exploring Full Stack Web Development along with Flutter
 - :hourglass_flowing_sand: Experimenting with JavaScript and learning Python
 - :microscope: Always ready to collaborate for Dev Experiments
 - :dart: 2021 Goals: Take a break, learn,learn,learn:fire: 
